@@ -11,14 +11,19 @@ The dataset, annotated in [Roboflow](https://roboflow.com/), started with 50 pic
 ### Validation results
 
 50 picture dataset.
-![50 picture dataset](./assets/50picDataset/20221108_102249_jpg.rf.0eb85229706c611bd11b8bed011bf190.jpg)
+<p align="center">
+  <img src="./assets/50picDataset/20221108_102249_jpg.rf.0eb85229706c611bd11b8bed011bf190.jpg" align="middle"/>
+</p>
 
 100 picture dataset
-![100 picture dataset](./assets/100picDataset/20221108_102249_jpg.rf.0eb85229706c611bd11b8bed011bf190.jpg)
-
+<p align="center">
+  <img src="./assets/100picDataset/20221108_102249_jpg.rf.0eb85229706c611bd11b8bed011bf190.jpg" align="middle"/>
+</p>
+  
 150 picture dataset
-![150 picture dataset](./assets/150picDataset/20221108_102249_jpg.rf.0eb85229706c611bd11b8bed011bf190.jpg)
-
+<p align="center">
+  <img src="./assets/150picDataset/20221108_102249_jpg.rf.0eb85229706c611bd11b8bed011bf190.jpg" align="middle"/>
+</p>
 
 ## Testing with a camera
 
