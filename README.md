@@ -10,8 +10,13 @@ The dataset, annotated in [Roboflow](https://roboflow.com/), started with 50 pic
 
 ### Validation results
 
+50 picture dataset.
 ![50 picture dataset](./assets/50picDataset/20221108_102249_jpg.rf.0eb85229706c611bd11b8bed011bf190.jpg)
+
+100 picture dataset
 ![100 picture dataset](./assets/100picDataset/20221108_102249_jpg.rf.0eb85229706c611bd11b8bed011bf190.jpg)
+
+150 picture dataset
 ![150 picture dataset](./assets/150picDataset/20221108_102249_jpg.rf.0eb85229706c611bd11b8bed011bf190.jpg)
 
 
